@@ -1,0 +1,316 @@
+{
+    "stops": [
+        {
+            "name": "Atlantis (linna sisenev)",
+            "position": {
+                "lat": 58.381230525460914,
+                "lng": 26.72889596227438,
+                "height": 34.64125061035156
+            }
+        },
+        {
+            "name": "Delta tasku",
+            "position": {
+                "lat": 58.38532325807102,
+                "lng": 26.726263920563593,
+                "height": 34.514373779296875
+            }
+        },
+        {
+            "name": "Kaare (FI suunas)",
+            "position": {
+                "lat": 58.36614410204848,
+                "lng": 26.703119272055886,
+                "height": 70.58875274658203
+            }
+        },
+        {
+            "name": "Kaare (Kesklinna suunas)",
+            "position": {
+                "lat": 58.36655441206589,
+                "lng": 26.70448564279842,
+                "height": 69.93562316894531
+            }
+        },
+        {
+            "name": "Kesklinn (Lõpp-peatus)",
+            "position": {
+                "lat": 58.37722696432968,
+                "lng": 26.727870192267574,
+                "height": 37.182498931884766
+            }
+        },
+        {
+            "name": "Kesklinn I",
+            "position": {
+                "lat": 58.37677386173414,
+                "lng": 26.726861434698954,
+                "height": 40.59937286376953
+            }
+        },
+        {
+            "name": "Kesklinn II",
+            "position": {
+                "lat": 58.37724738605336,
+                "lng": 26.727917843058677,
+                "height": 37.10874938964844
+            }
+        },
+        {
+            "name": "Kesklinn III",
+            "position": {
+                "lat": 58.37750266291346,
+                "lng": 26.728538760409922,
+                "height": 35.79312515258789
+            }
+        },
+        {
+            "name": "Kesklinn IV",
+            "position": {
+                "lat": 58.3775891647219,
+                "lng": 26.72790850432179,
+                "height": 36.48999786376953
+            }
+        },
+        {
+            "name": "Kesklinn V",
+            "position": {
+                "lat": 58.37745946055825,
+                "lng": 26.727636310464657,
+                "height": 37.046875
+            }
+        },
+        {
+            "name": "Kesklinn VI",
+            "position": {
+                "lat": 58.37690994056366,
+                "lng": 26.72651058815396,
+                "height": 40.94687271118164
+            }
+        },
+        {
+            "name": "Lembitu",
+            "position": {
+                "lat": 58.36929652044244,
+                "lng": 26.710742889251737,
+                "height": 61.71999740600586
+            }
+        },
+        {
+            "name": "Linnamuuseum",
+            "position": {
+                "lat": 58.38253304252881,
+                "lng": 26.72806896214309,
+                "height": 34.234375
+            }
+        },
+        {
+            "name": "Lõunakeskus III",
+            "position": {
+                "lat": 58.35891035335472,
+                "lng": 26.672449303297384,
+                "height": 71.6668701171875
+            }
+        },
+        {
+            "name": "Pauluse (Kesklinna suunas)",
+            "position": {
+                "lat": 58.37105710554966,
+                "lng": 26.715580324006314,
+                "height": 58.765625
+            }
+        },
+        {
+            "name": "Pauluse (linnast väljuv)",
+            "position": {
+                "lat": 58.37152909953232,
+                "lng": 26.716283875904026,
+                "height": 58.869998931884766
+            }
+        },
+        {
+            "name": "Raeplats (linna)",
+            "position": {
+                "lat": 58.37972237038812,
+                "lng": 26.72581852210892,
+                "height": 35.46437454223633
+            }
+        },
+        {
+            "name": "Raeplats (maale)",
+            "position": {
+                "lat": 58.38120012638039,
+                "lng": 26.72476568930152,
+                "height": 34.47312545776367
+            }
+        },
+        {
+            "name": "Raja (Kesklinna suunas)",
+            "position": {
+                "lat": 58.36172667219093,
+                "lng": 26.69139868654175,
+                "height": 76.3699951171875
+            }
+        },
+        {
+            "name": "Raja (linnast väljuv)",
+            "position": {
+                "lat": 58.36130422741691,
+                "lng": 26.69002816255349,
+                "height": 76.52749633789062
+            }
+        },
+        {
+            "name": "Raudteejaam (Kesklinna ja Riia tn. suunas)",
+            "position": {
+                "lat": 58.373738612726946,
+                "lng": 26.70719863057582,
+                "height": 62.53562545776367
+            }
+        },
+        {
+            "name": "Raudteejaam (Lõpp-peatus)",
+            "position": {
+                "lat": 58.374010636859865,
+                "lng": 26.706755122576055,
+                "height": 62.573123931884766
+            }
+        },
+        {
+            "name": "Raudteejaam (Tähtvere suunas)",
+            "position": {
+                "lat": 58.373990914208264,
+                "lng": 26.706784008304183,
+                "height": 62.584999084472656
+            }
+        },
+        {
+            "name": "Raudteejaam III",
+            "position": {
+                "lat": 58.373482349592585,
+                "lng": 26.707849053555996,
+                "height": 62.34187316894531
+            }
+        },
+        {
+            "name": "Riia ring (Kesklinna suunas)",
+            "position": {
+                "lat": 58.35872329519622,
+                "lng": 26.68492227877388,
+                "height": 79.62874603271484
+            }
+        },
+        {
+            "name": "Riia ring (linnast väljuv)",
+            "position": {
+                "lat": 58.35856540771666,
+                "lng": 26.684148802519463,
+                "height": 79.58562469482422
+            }
+        },
+        {
+            "name": "Riiamäe (linnast väljuv)",
+            "position": {
+                "lat": 58.37382799680585,
+                "lng": 26.72187467909106,
+                "height": 58.49187469482422
+            }
+        },
+        {
+            "name": "Soinaste I (kesklinna suunas)",
+            "position": {
+                "lat": 58.36436772678991,
+                "lng": 26.699246176498228,
+                "height": 71.17562103271484
+            }
+        },
+        {
+            "name": "Soinaste II (linnast väljuv)",
+            "position": {
+                "lat": 58.36389463157283,
+                "lng": 26.69743277395492,
+                "height": 73.04374694824219
+            }
+        },
+        {
+            "name": "Soola (Tasku)",
+            "position": {
+                "lat": 58.3774615077504,
+                "lng": 26.730195491001425,
+                "height": 34.204376220703125
+            }
+        },
+        {
+            "name": "Soola I (Kvartali kõrval, Sõpruse silla suunas)",
+            "position": {
+                "lat": 58.377171779855765,
+                "lng": 26.730051873472686,
+                "height": 34.244998931884766
+            }
+        },
+        {
+            "name": "Soola I (Lõpp-peatus)",
+            "position": {
+                "lat": 58.377253856444206,
+                "lng": 26.729919938749543,
+                "height": 34.3224983215332
+            }
+        },
+        {
+            "name": "Turu",
+            "position": {
+                "lat": 58.37800120091765,
+                "lng": 26.733779321636387,
+                "height": 33.57749938964844
+            }
+        },
+        {
+            "name": "Turu (Lõpp-peatus)",
+            "position": {
+                "lat": 58.37796681499288,
+                "lng": 26.733854521849253,
+                "height": 33.58374786376953
+            }
+        },
+        {
+            "name": "Vabaduse puiestee (maale)",
+            "position": {
+                "lat": 58.37912232867339,
+                "lng": 26.727219079875574,
+                "height": 35.69062423706055
+            }
+        },
+        {
+            "name": "Vabadussild-Palmihoone (linna)",
+            "position": {
+                "lat": 58.38358901386241,
+                "lng": 26.72340282293865,
+                "height": 34.34562301635742
+            }
+        },
+        {
+            "name": "Vabadussild-Palmihoone (maale)",
+            "position": {
+                "lat": 58.38336485937513,
+                "lng": 26.723665688422646,
+                "height": 34.36249923706055
+            }
+        },
+        {
+            "name": "Vene (Kesklinna suunas)",
+            "position": {
+                "lat": 58.3857869621336,
+                "lng": 26.726394134951548,
+                "height": 34.65999984741211
+            }
+        },
+        {
+            "name": "Vene (linnast väljuv)",
+            "position": {
+                "lat": 58.38667217015892,
+                "lng": 26.72685540137343,
+                "height": 35.373748779296875
+            }
+        }
+    ]
+}
